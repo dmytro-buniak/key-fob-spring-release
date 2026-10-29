@@ -1,2 +1,2 @@
-# key-fob-spring-release
-3D-printed key fob with a spring-loaded lever that ejects the key. Designed from scratch in FreeCAD: parametric parts, assembly and technical drawings (ISO 2768-m).
+Spring-Release Key Fob
+<img width="2293" height="1171" alt="image" src="https://github.com/user-attachments/assets/3eee7c6a-f1a0-4b6a-ac15-6521022d39c6" />
