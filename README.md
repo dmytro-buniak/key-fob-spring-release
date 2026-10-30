@@ -35,6 +35,6 @@ Mechanism overview
   * Button spring	outer diameter 5.5mm;     free length 16mm
 
 * **Other hardware:**
-* Screws:
-  * 3 M3 8mm
-  * 1 M3 5mm
+  * Screws:
+    * 3 M3 8mm
+    * 1 M3 5mm
