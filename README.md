@@ -13,7 +13,7 @@ Mechanism overview
 * **Tolerances**	ISO 2768-m
 * **Design tool**	FreeCAD v1.1
 * **Status**	finished
-* 
+  
 ### **How it works**
 * **Loaded position.** The key sits in the key case. A spring pushes the key outward, but a locking lever holds it in place.
 * **Locking.** The lever is pushed against the key by its own spring, so it stays locked until you press the button.
