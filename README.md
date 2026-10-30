@@ -30,11 +30,11 @@ Mechanism overview
 
 ### **Springs and hardware**
 * **Spring**
-* * Ejector spring	outer diameter 5.5mm;     free length 37mm
-* * Lever spring	outer diameter 6.5mm;     free length 10mm
-* * Button spring	outer diameter 5.5mm;     free length 16mm
+  * Ejector spring	outer diameter 5.5mm;     free length 37mm
+  * Lever spring	outer diameter 6.5mm;     free length 10mm
+  * Button spring	outer diameter 5.5mm;     free length 16mm
 
 * **Other hardware:**
 * Screws:
-* * 3 M3 8mm
-* * 1 M3 5mm
+  * 3 M3 8mm
+  * 1 M3 5mm
