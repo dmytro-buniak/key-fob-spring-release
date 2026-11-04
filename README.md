@@ -2,13 +2,9 @@
 
 A 3D-printed key fob with a spring-loaded lever that ejects the key at the push of a button. Designed from scratch in FreeCAD: parametric parts, assembly and technical drawings (ISO 2768-m).
 
-<img width="1627" height="1149" alt="image" src="https://github.com/user-attachments/assets/4f57ee41-5300-4b81-9540-64770876f437" />
-
-<hr>
-
 Mechanism overview
 
-<img width="1370" height="1025" alt="image" src="https://github.com/user-attachments/assets/42a2e596-c0ee-4e4d-9114-81da0c7189d0" />
+<img width="1627" height="1149" alt="image" src="https://github.com/user-attachments/assets/4f57ee41-5300-4b81-9540-64770876f437" />
 
 ### **At a glance**
 	
@@ -25,12 +21,18 @@ Mechanism overview
 * **Reset.** A separate spring returns the button to its resting position.
 
 ### **Parts shown in the overview image**
-* **Dark violet**	Key case	Holds the key
-* **Light green**	Ejector pin and spring	Pushes the key out when it is released
-* **Brown**	Locking lever	Holds the key in the loaded position
-* **Yellow**	Lever spring	Pushes the lever into the locking position
-* **Grey**	Button	Releases the lever when pressed
-* **Pink**	Button spring	Returns the button after it is pressed
+* 10006_locking_lever_prt_5x55x5
+* lever spring. 6.5mm diameter; 10mm free length
+* 10002_release_button_prt_16.1x5x9
+* 10003_key_housing_top_prt_29.8x36.7x5.1
+* 10003_key_housing_top_prt_29.8x36.7x5.1 (bottom part)
+* Button spring outer diameter 5.5mm; free length 16mm
+* Ejector spring outer diameter 5.5mm; free length 37mm
+* M3 8mm
+* M3 8mm
+* M3 8mm
+* 10001_case_bottom_part_prt_52.5x84x7
+* 10008_frame_rim_prt_52.7x84.2x7
 
 ### **Springs and hardware**
 * **Spring**
