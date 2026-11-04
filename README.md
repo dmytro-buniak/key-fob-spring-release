@@ -2,6 +2,9 @@
 
 A 3D-printed key fob with a spring-loaded lever that ejects the key at the push of a button. Designed from scratch in FreeCAD: parametric parts, assembly and technical drawings (ISO 2768-m).
 
+<img width="1626" height="1151" alt="image" src="https://github.com/user-attachments/assets/d95f2f65-c094-4dcb-8b23-ce5780df0e38" />
+<hr>
+
 Mechanism overview
 
 <img width="1370" height="1025" alt="image" src="https://github.com/user-attachments/assets/42a2e596-c0ee-4e4d-9114-81da0c7189d0" />
