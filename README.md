@@ -4,7 +4,8 @@ A 3D-printed key fob with a spring-loaded lever that ejects the key at the push 
 
 Mechanism overview
 
-<img width="1627" height="1149" alt="image" src="https://github.com/user-attachments/assets/4f57ee41-5300-4b81-9540-64770876f437" />
+<img width="1626" height="1149" alt="image" src="https://github.com/user-attachments/assets/c37f7d9e-5e70-4588-8bec-fec7bceef7b5" />
+
 
 ### **At a glance**
 	
