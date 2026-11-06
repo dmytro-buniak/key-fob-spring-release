@@ -1,20 +1,28 @@
-**Spring-Release Key Fob**
+<div align="center">
 
-A 3D-printed key fob with a spring-loaded lever that ejects the key at the push of a button. Designed from scratch in FreeCAD: parametric parts, assembly and technical drawings (ISO 2768-m).
+# 🔧 Spring-Release Key Fob
 
-Mechanism overview
+**A 3D-printed key fob with a spring-loaded lever that ejects the key at the push of a button. Designed from scratch in FreeCAD: parametric parts, assembly and technical drawings (ISO 2768-m).**
 
+![FreeCAD](https://img.shields.io/badge/FreeCAD-1.1-C0392B?style=for-the-badge&logo=freecad&logoColor=white)
+![Material](https://img.shields.io/badge/material-PLA%20carbon%20fibre-444?style=for-the-badge)
+![Tolerances](https://img.shields.io/badge/tolerances-ISO%202768--m-1F3A5F?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-in%20use-2E8B57?style=for-the-badge)
+<br>
+<p float="left">
 <img width="1400" height="990" alt="image" src="https://github.com/user-attachments/assets/5cce2b25-5749-4d76-8992-68260e81e6ba" />
+</p>
+</div>
 
+## 🔩 **At a glance**
+| | |
+|---|---|
+| Overall width | 49 mm |
+| Overall height | 77 mm |
+| Overall depth | 7 mm |
+| Material | PLA |
+| Design tool | FreeCAD 1.1 (Part Design and TechDraw) |
 
-
-### **At a glance**
-	
-* **Overall size**	49 × 77 × 7 mm
-* **Material**	PLA
-* **Tolerances**	ISO 2768-m
-* **Design tool**	FreeCAD v1.1
-* **Status**	finished
   
 ### **How it works**
 * **Loaded position.** The key sits in the key case. A spring pushes the key outward, but a locking lever holds it in place.
@@ -36,7 +44,7 @@ Mechanism overview
 * 10001_case_bottom_part_prt_52.5x84x7
 * 10008_frame_rim_prt_52.7x84.2x7
 
-### **Springs and hardware**
+## ⚙️ **Springs and hardware**
 * **Spring**
   * Ejector spring	outer diameter 5.5mm;     free length 37mm
   * Lever spring	outer diameter 6.5mm;     free length 10mm
