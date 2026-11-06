@@ -24,13 +24,13 @@
 | Design tool | FreeCAD 1.1 (Part Design and TechDraw) |
 
   
-### **How it works**
+## **How it works**
 * **Loaded position.** The key sits in the key case. A spring pushes the key outward, but a locking lever holds it in place.
 * **Locking.** The lever is pushed against the key by its own spring, so it stays locked until you press the button.
 * **Release.** Pressing the button moves the lever away from the key. The ejector spring then pushes the key out.
 * **Reset.** A separate spring returns the button to its resting position.
 
-### **Parts shown in the overview image**
+## **Parts shown in the overview image**
 * 10006_locking_lever_prt_5x55x5
 * lever spring. 6.5mm diameter; 10mm free length
 * 10002_release_button_prt_16.1x5x9
