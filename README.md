@@ -11,7 +11,7 @@
 <br>
 <p float="left">
 <img width="1400" height="990" alt="image" src="https://github.com/user-attachments/assets/5cce2b25-5749-4d76-8992-68260e81e6ba" />
-<img width="2526" height="3158" alt="IMG_0707" src="https://github.com/user-attachments/assets/8ca87cbd-ad65-4bcc-93c8-d98af2405094" />
+<img width="2526" height="65%" alt="IMG_0707" src="https://github.com/user-attachments/assets/8ca87cbd-ad65-4bcc-93c8-d98af2405094" />
 
 </p>
 </div>
