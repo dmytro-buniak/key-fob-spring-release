@@ -54,3 +54,7 @@
   * Screws:
     * 3 M3 8mm
     * 1 M3 5mm
+   
+## **3D Printed and assembled**
+<img width="565" height="878" alt="image" src="https://github.com/user-attachments/assets/61bdf83a-2ee8-47f7-abb9-65419a418e32" />
+
